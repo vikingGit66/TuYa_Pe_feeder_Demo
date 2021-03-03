@@ -1,2 +1,3 @@
 # TuYa_Pe_feeder_Demo
-基于TuYa-IOT平台的宠物喂食器-Demo（鱼）
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+## 一、方案标题
