@@ -10,6 +10,12 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 ①根据喂食计划自动喂食<br>
 ②手动喂食<br>
 ③水温检测<br>
-④水循环控制
+④水循环控制<br>
+⑤LED补光灯<br>
+⑥OLED显示屏
 ### 硬件方案：
-硬件总体设计方案是由TuYa三明治模块、合泰HT66F0185-MCU、水温传感器DS18B20、投食器模块、OLED 显示模块、按键控制模块等模块组成。
+硬件总体设计方案是由TuYa三明治模块、合泰HT66F0185-MCU、水温传感器DS18B20、投食器模块、补光灯、OLED 显示模块、按键控制模块等模块组成。
+### 三、开发计划4月10日前完成.
+1）3月14前准备物料<br>
+2）3月3日-4月10日嵌入式开发、云开发<br>
+3）4月1日前整体调试。<br>
