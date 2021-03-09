@@ -17,10 +17,13 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 ⑧OLED显示屏
 ### 硬件方案：
 硬件总体设计方案是由TuYa三明治模块、合泰HT66F0185-MCU、水温传感器DS18B20、投食器模块、补光灯、OLED 显示模块、按键控制模块等模块组成。<br>
-之前做过类似的项目，可把已有的模块移植调试，大大简化了这次喂食器的开发。<br>
-![HT开发板图片](https://github.com/vikingGit66/TuYa_Pet_Feeder_FishTank_Demo/blob/master/HT%E5%BC%80%E5%8F%91%E6%9D%BF.jpg) <br>
-![鱼缸投食器图片](https://github.com/vikingGit66/TuYa_Pet_Feeder_FishTank_Demo/blob/master/%E9%B1%BC%E7%BC%B8%E6%8A%95%E9%A3%9F%E5%99%A8.jpg)<br>
-### 三、开发计划4月10日前完成.
+之前做过类似的项目，如附件图片所示。<br>
+可把已有的模块移植调试，大大简化了这次喂食器的开发。<br>
+鱼缸投食器只需一个电平控制即可完成一次投食。<br>
+### 三、开发计划4月10日前完成
 1）3月14前准备物料<br>
 2）3月3日-4月10日嵌入式开发、云开发<br>
 3）4月1日前整体调试。<br>
+### 四、附件
+![HT开发板图片](https://github.com/vikingGit66/TuYa_Pet_Feeder_FishTank_Demo/blob/master/HT%E5%BC%80%E5%8F%91%E6%9D%BF.jpg) <br>
+![鱼缸投食器图片](https://github.com/vikingGit66/TuYa_Pet_Feeder_FishTank_Demo/blob/master/%E9%B1%BC%E7%BC%B8%E6%8A%95%E9%A3%9F%E5%99%A8.jpg)<br>
